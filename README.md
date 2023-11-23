@@ -6,4 +6,4 @@
 
 Thanks for checking out this front-end coding challenge.
 
-<a href="https://AJ-David.github.io/huddle-landing-page-with-alternating-feature-blocks-master/"> here is the link to the live page
+<a href="https://AJ-David.github.io/huddle-landing-page-with-alternating-main/"> here is the link to the live page
